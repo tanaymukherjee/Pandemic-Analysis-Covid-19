@@ -6,7 +6,7 @@ https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd
 ### Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand
 https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
 
-### Social Distancing"​ and Mental Health
+### Social Distancing and Mental Health
 https://www.linkedin.com/pulse/social-distancing-mental-health-sinan-aral/
 
 ### Wiki page for the pandemic: Covid-19
