@@ -12,7 +12,7 @@ https://www.linkedin.com/pulse/social-distancing-mental-health-sinan-aral/
 ### Wiki page for the pandemic: Covid-19
 https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 
-### Simulator depecting the spread of the virus
+### Simulator depicting the spread of the virus
 https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
 ### All about the crisis in summary by WSJ
