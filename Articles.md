@@ -18,6 +18,9 @@ https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 ### All about the crisis in summary by WSJ
 https://www.wsj.com/news/collection/coronavirus0312-256f2943
 
+### CDC's official website detailing on Covid-19 symptoms, prevention, and next steps
+https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
+
 ### Dashboards visualizing the count of the affected inviduals worldwide
 https://www.covidvisualizer.com/
 
