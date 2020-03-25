@@ -17,3 +17,9 @@ https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
 ### All about the crisis in summary by WSJ
 https://www.wsj.com/news/collection/coronavirus0312-256f2943
+
+### Dashboards visualizing the count of the affected inviduals worldwide
+https://www.covidvisualizer.com/
+
+### Dashboards visualizing the count of the affected inviduals in India
+https://covidout.in/
