@@ -9,5 +9,8 @@ https://www.youtube.com/watch?v=TPpoJGYlW54
 ### Transforming of the disease into a Pandemic:
 https://www.youtube.com/watch?v=isrrSE_d9EM
 
+### Covid-19 affects on world economy and other burning questions:
+https://www.youtube.com/watch?v=Lf1TNwWDQNk
+
 ### Statistics behind the outbreak - Exponential growth and epidemics:
 https://www.youtube.com/watch?v=Kas0tIxDvrg
