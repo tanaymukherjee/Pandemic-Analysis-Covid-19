@@ -29,3 +29,6 @@ https://www.covidvisualizer.com/
 
 ### Dashboards visualizing the count of the affected inviduals in India
 https://covidout.in/
+
+### Analysis work by other people for studying and replicating
+https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f
