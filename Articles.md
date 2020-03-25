@@ -21,6 +21,9 @@ https://www.wsj.com/news/collection/coronavirus0312-256f2943
 ### CDC's official website detailing on Covid-19 symptoms, prevention, and next steps
 https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
 
+### Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
 ### Dashboards visualizing the count of the affected inviduals worldwide
 https://www.covidvisualizer.com/
 
