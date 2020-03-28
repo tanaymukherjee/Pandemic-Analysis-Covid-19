@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 ### Simulator depicting the spread of the virus
 https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
+### Understanding a pandemic outbreak through simulation
+https://www.meltingasphalt.com/interactive/outbreak/
+
 ### All about the crisis in summary by WSJ
 https://www.wsj.com/news/collection/coronavirus0312-256f2943
 
