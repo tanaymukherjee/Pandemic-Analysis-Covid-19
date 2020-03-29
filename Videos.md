@@ -18,5 +18,8 @@ https://www.youtube.com/watch?v=6Af6b_wyiwI
 ### Statistics behind the outbreak - Exponential growth and epidemics:
 https://www.youtube.com/watch?v=Kas0tIxDvrg
 
-### Simulating an epidemic
+### Simulating an epidemic:
 https://www.youtube.com/watch?v=gxAaO2rsdIs
+
+### How viruses mutate and where do they come from:
+https://www.youtube.com/watch?v=NJLXdsO1GBI
