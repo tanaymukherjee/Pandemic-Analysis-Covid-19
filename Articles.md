@@ -38,3 +38,6 @@ https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df
 
 ### 13. Tableau: Coronavirus (COVID-19) Viz Gallery
 https://public.tableau.com/en-us/s/covid-19-viz-gallery
+
+### 14. Coronavirus Locations: COVID-19 Map by County and State for USA
+https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
