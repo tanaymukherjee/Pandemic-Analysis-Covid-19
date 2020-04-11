@@ -35,3 +35,6 @@ https://covidout.in/
 
 ### 12. Analysis work by other people for studying and replicating
 https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f
+
+### 13. Tableau: Coronavirus (COVID-19) Viz Gallery
+https://public.tableau.com/en-us/s/covid-19-viz-gallery
